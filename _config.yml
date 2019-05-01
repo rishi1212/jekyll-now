@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:
+  github: https://github.com/rishi1212
+  instagram:https://www.instagram.com/rishiverma12/
+  linkedin:https://www.linkedin.com/in/rishiverma12/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url:http://rishiverma.co
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -53,7 +53,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
+permalink: /:title/ Rishi Verma Blogs
 
 # The release of Jekyll Now that you're using
 version: v1.2.0
